@@ -1,2 +1,2 @@
 # stopwatch
-Performace measurement
+Performance measurement C++11 template class
